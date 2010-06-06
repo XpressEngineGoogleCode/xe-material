@@ -1,6 +1,6 @@
 <filter name="insert_material" module="material" act="procMaterialInsert">
   <form>
-    <node target="auth" required="true"/>
+    <node target="auth" required="true" />
     <node target="content" required="true" />
   </form>
   <parameter />
