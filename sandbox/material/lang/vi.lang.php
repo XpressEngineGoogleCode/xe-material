@@ -1,8 +1,8 @@
 <?php
     /**
-     * @file   en.lang.php
+     * @file   vi.lang.php
      * @author nicetwo
-     * @brief  default language pack of ingredients collector (english)
+     * @brief  default language pack of ingredients collector (vietnamese)
      **/
 
     $lang->material->popup_title   = 'Textyle viết thu nhập thành phần';
