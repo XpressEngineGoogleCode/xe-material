@@ -1,7 +1,7 @@
 <?php
     /**
      * @file   ko.lang.php
-     * @author sol(sol@ngleader.com) 
+     * @author NHN (developers@xpresseinge.com) 
      * @brief  글감 수집기의 기본 언어팩(한국어)
      **/
 

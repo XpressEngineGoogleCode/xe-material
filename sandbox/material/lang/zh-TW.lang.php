@@ -1,7 +1,7 @@
 <?php
     /**
      * @file   zh-TW.lang.php
-     * @author sol(sol@ngleader.com) 翻譯：royallin
+     * @author NHN (developers@xpresseinge.com) 翻譯：royallin
      * @brief  素材蒐集器正體中文語言
      **/
 

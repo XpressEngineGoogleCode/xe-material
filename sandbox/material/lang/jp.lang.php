@@ -1,7 +1,7 @@
 <?php
     /**
      * @file   jp.lang.php
-     * @author sol(sol@ngleader.com) 翻訳：ミニミ
+     * @author NHN (developers@xpresseinge.com) 翻訳：ミニミ
      * @brief  ネタ収集機の日本語言語パッケージ
      **/
 

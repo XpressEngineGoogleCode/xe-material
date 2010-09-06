@@ -1,7 +1,7 @@
 <?php
     /**
      * @class  materialAdminModel
-     * @author sol (sol@ngleader.com)
+     * @author NHN (developers@xpresseinge.com)
      * @version 0.1
      * @brief  material 모듈의 admin model class
      **/

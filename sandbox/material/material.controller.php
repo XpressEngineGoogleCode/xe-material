@@ -1,7 +1,7 @@
 <?php
     /**
      * @class  materialController
-     * @author sol (sol@ngleader.com)
+     * @author NHN (developers@xpresseinge.com)
      * @brief  material 모듈의 Controller class
      **/
 

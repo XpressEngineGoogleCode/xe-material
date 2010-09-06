@@ -1,7 +1,7 @@
 <?php
     /**
      * @file   zh-CN.lang.php
-     * @author sol(sol@ngleader.com)     翻译：guny(space.china@gmail.com)
+     * @author NHN (developers@xpresseinge.com)     翻译：guny(space.china@gmail.com)
      * @brief  素材库简体中文语言包
      **/
 
